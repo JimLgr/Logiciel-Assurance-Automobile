@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\bin\Debug\net6.0\ClassLibraryAssurance.deps.json
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\bin\Debug\net6.0\ClassLibraryAssurance.dll
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\bin\Debug\net6.0\ClassLibraryAssurance.pdb
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.AssemblyInfo.cs
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.dll
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\refint\ClassLibraryAssurance.dll
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ClassLibraryAssurance.pdb
+C:\Users\pc\source\repos\Assurance\ClassLibraryAssurance\obj\Debug\net6.0\ref\ClassLibraryAssurance.dll
